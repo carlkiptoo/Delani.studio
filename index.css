@@ -19,4 +19,8 @@
 }
 .what {
     display: flex;
+    justify-content: space-around;
+}
+.paragraph {
+    display: none;
 }
