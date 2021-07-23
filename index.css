@@ -1,11 +1,22 @@
-.intro {
-    background-image: url(h_img.jpeg);
+/*.intro {
     text-align: center;
-    color: black;
+    position: absolute;
+    top: 150px;
+    left: 400px;
 }
 .about {
     text-align: center;
 }
 .services {
     text-align: center;
+}*/
+.one {
+    height: 80vh;
+    background-image: url(./assets/h_img.jpeg);
+    background-size: 200vh;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.what {
+    display: flex;
 }
