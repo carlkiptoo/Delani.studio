@@ -39,4 +39,26 @@
 .six {
     text-align: center;
     background-image: url(./assets/c_image.jpeg);
+    background-size: 200vh;
+    height: 600px;
+    background-repeat: no-repeat;
+}
+#Name {
+    height: 30px;
+    width: 300px;
+    opacity: 0.1;
+    color: white;
+    border: 2px white;
+}
+#Email {
+    height: 30px;
+    width: 300px;
+    opacity: 0.1;
+    color: white;
+}
+#Message {
+    height: 300px;
+    width: 500px;
+    opacity: 0.1;
+    color: white;
 }
