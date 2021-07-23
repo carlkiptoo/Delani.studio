@@ -21,6 +21,8 @@
     display: flex;
     justify-content: space-around;
 }
-.paragraph {
+.paragraphOne, .paragraphTwo, .paragraphThree {
     display: none;
+    text-align: center;
+    width: 20%;
 }
