@@ -28,4 +28,8 @@
 }
 .three {
     background-image: url(./assets/s_image.jpeg);
+    height: 200px;
+    background-size: 200vh;
+    background-repeat: no-repeat;
+    text-align: center;
 }
