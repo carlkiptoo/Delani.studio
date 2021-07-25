@@ -67,4 +67,9 @@
 }
 .columnOne {
     display: flex;
+    border: white;
+    background-origin: padding-box;
+}
+.columnTwo {
+    display: flex;
 }

@@ -1,17 +1,17 @@
-$(document).ready(function(){
-    $(".imageOne").click(function(){
+$(document).ready(function () {
+    $(".imageOne").hover(function () {
         $(".paragraphOne").toggle();
         $(".imageOne").toggle();
-        
+
     });
-    $(".imageTwo").click(function(){
+    $(".imageTwo").hover(function () {
         $(".paragraphTwo").toggle();
         $(".imageTwo").toggle();
-        
+
     });
-    $(".imageThree").click(function(){
+    $(".imageThree").hover(function () {
         $(".paragraphThree").toggle();
         $(".imageThree").toggle();
-        
+
     });
 });
