@@ -16,6 +16,7 @@
     background-size: 200vh;
     background-repeat: no-repeat;
     text-align: center;
+    color: white;
 }
 .what {
     display: flex;
@@ -72,4 +73,10 @@
 }
 .columnTwo {
     display: flex;
+}
+.services {
+    color: white;
+}
+.six {
+    color: white;
 }
