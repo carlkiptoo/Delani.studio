@@ -6,7 +6,7 @@ This is a design company which uses the clients instructions to build functional
 *git clone the repository
 *click https://github.com/carlkiptoo/Delani.studio.git
 *open favorite browser
-* click 
+* click https://loving-lamarr-3a8940.netlify.app
 * Navigate through the website
 ## Known Bugs
 The website has no bugs
